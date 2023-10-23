@@ -1,5 +1,6 @@
 import React from "react";
 import coffee from '../../assets/img/coffee.png'
+import Cart from "../Cart/CartWidget"
 import '../Navbar/style.css'
 
 function Navbar(){
@@ -10,6 +11,7 @@ function Navbar(){
             <a href=""><h3 className="jobs">Jobs</h3></a>    
             <a href=""><h3>Mensagens</h3></a>
             <a href=""><h3>Perfil</h3></a>
+            <Cart/>
         </div>
     )
 }
