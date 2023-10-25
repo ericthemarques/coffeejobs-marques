@@ -10,3 +10,7 @@
 
 ![image](https://github.com/ocarinamachine/coffeejobs-marques/assets/67469148/7ba5f2bb-c5cb-4289-a7c2-9838bfceb4bf)
 
+---------------------------------------------------------------------------------------------------------------------------
+
+<h3>Desafio Cart e itemcount</h3>
+<p>Teste</p>
