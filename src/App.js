@@ -1,14 +1,12 @@
 import './App.css';
 import Navbar from './components/Navbar';
-import CartWidget from './components/Cart/index.jsx';
-import ItemHome from './components/ItemList/index';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import ItemListContainer from './components/ItemList/ItemListContainer';
 
 function App() {
   return (
     <div>
       <Navbar/>
-      <ItemHome/>
+      <ItemListContainer/>
     </div>
   );
 }
